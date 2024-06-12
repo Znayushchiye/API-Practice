@@ -2,7 +2,7 @@
 import express from "express";
 import cors from "cors";
 
-import router from './routes/path.router.js';
+import router from './routes/task.route.js';
 import configDetails from "./config.js";
 import mongoose from "mongoose";
 
